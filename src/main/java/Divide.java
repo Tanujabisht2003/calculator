@@ -1,5 +1,5 @@
 public class Divide implements Operate {
-
+    // starts here
     public Double getResult(Double... numbers){
         Double result = numbers[0];
 
